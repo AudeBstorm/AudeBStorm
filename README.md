@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Aude, welcome 🦊
+
+## About me 😊
+ - 🇫🇷 I'm a french woman living in Belgium 🇧🇪
+ - 💻 Web developer and trainer at [BStorm](https://www.bstorm.be/)
+ - ✍ I like drawing in my free time !
 
 <!--
 **AudeBstorm/AudeBStorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
