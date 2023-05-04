@@ -8,7 +8,7 @@
 ## You can find me here
 <a href="https://www.linkedin.com/in/aude-beurive/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30">
 </a>
-<a href="https://github.com/AudeBstorm"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" height="30">
+<a href="https://gitlab.com/audebstorm"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" width="30" height="30">
 </a>
 <a href="https://www.instagram.com/lhel_fox/"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30" height="30">
 </a>
